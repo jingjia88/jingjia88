@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/jingjiahung)](https://linkedin.com/in/jingjiahung)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jingjiahung@gmail.com)](mailto:jingjiahung@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=jingjia88&label=Profile%20views&color=0e75b6&style=flat" alt="jingjia88" /> 
 
 
 I'm a Full Stack Developer with a backend focus based in Toronto, experienced in delivering production features across both startup MVPs and enterprise-scale systems. Skilled in building cloud-native microservices, RESTful APIs, and real-time data pipelines.
